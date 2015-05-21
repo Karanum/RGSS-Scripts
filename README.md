@@ -22,4 +22,4 @@ If you cannot figure out how to make it work, feel free to contact me for suppor
 * Skype: Karanum
 * Steam: http://steamcommunity.com/id/karanum/
 
-I will usually not accept random requests. If you want to add me, please refer to this page in your request so I know you're not some random creep/bot.
+I will usually ignore random requests on Skype. If you want to add me, please refer to this page in your request so I know you're not some random creep/bot.
