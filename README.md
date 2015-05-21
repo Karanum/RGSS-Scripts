@@ -4,7 +4,7 @@ Scripts for use with the RPG Maker software
 ## Terms of Use
 These terms of use can also be found in the header of each script. The ToU in some scripts may differ from the one displayed here. In this case, the ToU found in the scripts is binding. By using any of the scripts found here, you agree to the Terms of Use of said scripts.
 
->This script may be used freely for non-commercial purposes only. Explicit permission must be granted for commercial use. You can contact eposofcrystal@gmail.com to request permission. In all cases, commercial or non-commerical, proper credit needs to be given to Karanum. Redistribution outside of RPG Maker games is not allowed; please link to https://github.com/Karanum/RGSS-Scripts instead.
+>This script may be used freely for non-commercial purposes only. Explicit permission must be granted for commercial use. You can contact eposofcrystal@gmail.com to request permission. In all cases, commercial or non-commercial, proper credit needs to be given to Karanum. Redistribution outside of RPG Maker games is not allowed; please link to https://github.com/Karanum/RGSS-Scripts instead.
 
 Even if you take any of these scripts for private use, a short notice (and maybe a copy of your game? Hint, hint) would be appreciated, but in no way mandatory.
 
