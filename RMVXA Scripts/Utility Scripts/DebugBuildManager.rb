@@ -8,7 +8,7 @@
 #==============================================================================
 
 $imported = {} if $imported.nil?
-$imported["Karanum_DebugBuild"] = true
+$imported["KCE_DebugBuildManager"] = true
 
 #==============================================================================
 # ◆ Updates
